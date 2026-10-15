@@ -38,3 +38,24 @@ Configure the required environment variables in your backend `.env` file. Never 
 - Resume-based interviews
 - Performance analytics
 - Automated testing and CI/CD
+
+- # PrepAI — AI-Powered Mock Interview Platform
+
+🚀 **Live Demo:** https://prep-ai-cyan.vercel.app
+
+PrepAI is an AI-powered mock interview platform that helps users practice interviews, receive AI-based answer evaluations, and track their interview performance.
+
+## Features
+- AI-generated interview questions
+- Mock interview practice
+- AI-powered answer evaluation
+- Interview history and performance tracking
+
+## Tech Stack
+- Frontend: React, Vite
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- AI: Google Gemini API
+
+## Getting Started
+Visit the live demo: https://prep-ai-cyan.vercel.app
