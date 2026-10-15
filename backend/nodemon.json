@@ -1,0 +1,3 @@
+{
+  "ignore": ["test_*", "*.test.js", "check_*", "audit_*"]
+}
